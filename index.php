@@ -29,8 +29,8 @@
           <div class="menu1">
             <ul>
               <li><a href="index.php">Inicio</a></li>
-              <li><a href="#">Servicios</a></li>
-              <li><a href="productos.php">Productos</a></li>
+              <li><a href="modulos/registro-usuario/inicio_usuario.php">Sesion</a></li>
+              <li><a href="modulos/producto/productos.php">Productos</a></li>
             </ul>
           </div>
 
@@ -72,7 +72,7 @@
                     tradicional
                   </p>
                   <div class="botones">
-                    <a href="#" class="btn-1">Comprar</a>
+                    <a href="cotizacion/cotizacion.php" class="btn-1">Cotiza</a>
                     <a href="#" class="btn-1">Menu</a>
                   </div>
                 </div>

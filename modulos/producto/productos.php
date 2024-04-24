@@ -1,5 +1,6 @@
-<?php include("db.php") ?>
-<?php include("include/header.php") ?>
+<?php include("../../db.php") ?>
+<?php include("../../include/header.php") ?>
+
 
 <div class="container p-4">
     <div class="row">

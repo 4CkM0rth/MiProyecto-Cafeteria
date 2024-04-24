@@ -14,7 +14,7 @@
 
     <nav class="navbar navbar-dark bg-dark">
       <div class="container">
-        <a class="navbar-brand" href="index.php">DELICIOUS BREAD</a>
+        <a class="navbar-brand" href="../../index.php">DELICIOUS BREAD</a>
       </div>
     </nav>
     

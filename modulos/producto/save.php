@@ -1,5 +1,5 @@
 <?php 
-include("db.php");
+include("../../db.php");
 
 if (isset($_POST['save'])) {
     $producto = $_POST['producto'];
